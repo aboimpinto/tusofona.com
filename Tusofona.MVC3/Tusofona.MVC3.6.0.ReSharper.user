@@ -1,7 +1,15 @@
 <Configuration>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="962215A4-07C4-433C-8F0C-3D93CD22D068/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+      <File id="962215A4-07C4-433C-8F0C-3D93CD22D068/d:Controllers/f:HomeController.cs" caret="344" fromTop="20" />
+      <File id="962215A4-07C4-433C-8F0C-3D93CD22D068/d:Views/d:Shared/f:_Layout.cshtml" caret="362" fromTop="11" />
+      <File id="962215A4-07C4-433C-8F0C-3D93CD22D068/d:Views/d:Home/f:index.cshtml" caret="122" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="962215A4-07C4-433C-8F0C-3D93CD22D068/d:Views/d:Shared/f:_Layout.cshtml" caret="461" fromTop="14" />
+      <File id="962215A4-07C4-433C-8F0C-3D93CD22D068/d:Views/d:Home/f:index.cshtml" caret="122" fromTop="5" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -21,4 +29,13 @@
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="div" priority="5" />
+      <Item value="img" priority="5" />
+      <Item value="src" priority="5" />
+      <Item value="index.cshtml" priority="5" />
+      <Item value="alt" priority="6" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

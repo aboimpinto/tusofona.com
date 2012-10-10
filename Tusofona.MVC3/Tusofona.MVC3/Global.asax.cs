@@ -9,6 +9,8 @@ using System.IO;
 
 namespace Tusofona.MVC3
 {
+    using System.ComponentModel.Composition;
+
     // Note: For instructions on enabling IIS6 or IIS7 classic mode, 
     // visit http://go.microsoft.com/?LinkId=9394801
 
@@ -41,6 +43,12 @@ namespace Tusofona.MVC3
             RegisterRoutes(RouteTable.Routes);
 
             var catalog = new DirectoryCatalog(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "bin"));
+            var container = new CompositionContainer(catalog);
+            container.ComposeParts();
+
+            //DependencyResolver.SetResolver(new MefDependencyResolver(container));
+            ControllerBuilder.Current.SetControllerFactory(new MefControllerFactory(container));
+
         }
     }
 }
