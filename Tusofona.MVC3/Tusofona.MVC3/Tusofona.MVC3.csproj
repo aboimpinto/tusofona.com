@@ -71,7 +71,6 @@
     </Compile>
     <Compile Include="IControllerMetadata.cs" />
     <Compile Include="MefControllerFactory.cs" />
-    <Compile Include="MefDependencyResolver.cs" />
     <Compile Include="Models\AppContext.cs" />
     <Compile Include="Models\IAppContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

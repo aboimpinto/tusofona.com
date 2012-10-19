@@ -46,7 +46,6 @@ namespace Tusofona.MVC3
             var container = new CompositionContainer(catalog);
             container.ComposeParts();
 
-            //DependencyResolver.SetResolver(new MefDependencyResolver(container));
             ControllerBuilder.Current.SetControllerFactory(new MefControllerFactory(container));
 
         }

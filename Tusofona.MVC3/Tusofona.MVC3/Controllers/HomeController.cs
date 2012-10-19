@@ -10,6 +10,7 @@ namespace Tusofona.MVC3.Controllers
 {
     [Export(typeof(IController))]
     [ExportMetadata("Name", "Home")]
+    [PartCreationPolicy(CreationPolicy.NonShared)]
     public class HomeController : Controller
     {
         #region Private Fields 
