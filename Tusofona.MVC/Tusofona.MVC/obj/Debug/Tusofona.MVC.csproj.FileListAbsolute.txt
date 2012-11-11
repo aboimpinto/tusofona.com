@@ -1,6 +1,0 @@
-C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Tusofona.MVC3\bin\Tusofona.MVC.dll
-C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Tusofona.MVC3\bin\Tusofona.MVC.pdb
-C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Tusofona.MVC3\bin\EntityFramework.dll
-C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Tusofona.MVC3\bin\EntityFramework.xml
-C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Tusofona.MVC3\obj\Debug\Tusofona.MVC.dll
-C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Tusofona.MVC3\obj\Debug\Tusofona.MVC.pdb
