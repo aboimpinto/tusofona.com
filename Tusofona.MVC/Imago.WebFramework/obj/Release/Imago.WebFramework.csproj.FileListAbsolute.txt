@@ -1,0 +1,5 @@
+C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Imago.WebFramework\bin\Release\Imago.WebFramework.dll
+C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Imago.WebFramework\bin\Release\Imago.WebFramework.pdb
+C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Imago.WebFramework\obj\Release\Imago.WebFramework.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Imago.WebFramework\obj\Release\Imago.WebFramework.dll
+C:\Users\Paulo\Documents\GitHub\tusofona.com\Tusofona.MVC\Imago.WebFramework\obj\Release\Imago.WebFramework.pdb

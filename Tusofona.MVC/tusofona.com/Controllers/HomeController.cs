@@ -13,14 +13,14 @@ namespace tusofona.com.Controllers
     public class HomeController : Controller
     {
         #region Constructor 
-        public HomeController()
+        public HomeController() 
         {
 
         }
         #endregion
 
         #region Post Methods 
-        public ActionResult Index()
+        public ActionResult Index() 
         {
             return View();
         }
