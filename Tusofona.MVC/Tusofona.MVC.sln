@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imago.WebFramework", "Imago.WebFramework\Imago.WebFramework.csproj", "{4A45586B-3D14-4853-A52C-BAA4A767B773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tusofona.com", "tusofona.com\tusofona.com.csproj", "{9A83F8E6-0404-4237-8D7C-147047DE670A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{343B1D73-0BDF-4B08-BAB0-85A116E93EDC}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusofona", "Tusofona\Tusofona.csproj", "{4BD87795-1497-4D3E-AB46-9FA8B284953A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{4A45586B-3D14-4853-A52C-BAA4A767B773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A45586B-3D14-4853-A52C-BAA4A767B773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A45586B-3D14-4853-A52C-BAA4A767B773}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9A83F8E6-0404-4237-8D7C-147047DE670A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9A83F8E6-0404-4237-8D7C-147047DE670A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9A83F8E6-0404-4237-8D7C-147047DE670A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9A83F8E6-0404-4237-8D7C-147047DE670A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD87795-1497-4D3E-AB46-9FA8B284953A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD87795-1497-4D3E-AB46-9FA8B284953A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD87795-1497-4D3E-AB46-9FA8B284953A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD87795-1497-4D3E-AB46-9FA8B284953A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
